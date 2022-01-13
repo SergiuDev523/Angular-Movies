@@ -1,14 +1,3 @@
-# HubMovies
-
-<p align="center">
-    <a href="https://hubmovies-a26fc.firebaseapp.com"><img src="https://rawgit.com/clamarque/hub-movies/master/src/assets/icons/android-chrome-192x192.png" alt="logo" />
-    </a>
-</p>
-
-<p align="center">
-    A progressive web apps of movies built with Angular
-</p>
-<hr>
 
 - :globe_with_meridians: **Reliable** : Allows the app to display movie lists even when offline
 
@@ -64,7 +53,3 @@ Get the URL in code, like this:
 </code>
 
 Put the URL in the navigator for download the file.
-
-## Become a contributor ?
-
-Find a bug, contribute some code or suggest ideas ? don't hesitate ! Create a pull request or an issue :wink:
